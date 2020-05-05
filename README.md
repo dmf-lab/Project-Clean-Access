@@ -1,0 +1,2 @@
+# Project-Clean-Access
+Project Clean Access (XXX) aims to create a means for people to return to the workplace in a post-lockdown, COVID19 world. Using simple tools that are easy to manufacture and taking advantage of what is commonly available in the workplace, a system is proposed that allows people to interact with doors, cupboards and other mechanisms with minimal contact to try and break transmission paths.
